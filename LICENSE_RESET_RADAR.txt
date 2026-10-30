@@ -1,0 +1,38 @@
+RESET RADAR — PROPRIETARY LICENSE
+Copyright © 2026 Aris. All rights reserved.
+Terms version: 30 October 2026. Full English and Greek text follows.
+
+[01] Permission to use
+You may install and use an unmodified, legitimately obtained copy of Reset Radar on Windows for its intended purpose. This permission does not transfer ownership.
+
+[02] Original content and attribution
+Except where applicable law permits otherwise, you may not redistribute, sell, sublicense, copy into another product, or reuse the original Reset Radar source, artwork, logo, interface assets or other original content without prior written permission from Aris. This license does not authorize use of the Aris or Reset Radar names or logo to suggest endorsement. Do not remove attribution or notices.
+
+[03] Your content and independence
+Your files, account data and chats remain yours. This license claims no ownership of Codex, OpenAI products, third-party material or user content. Reset Radar is an independent companion application and is not affiliated with or endorsed by OpenAI.
+
+[04] Third-party licenses
+Third-party components remain governed by their own licenses. The bundled Electron LICENSE and LICENSES.chromium.html must be retained; this proprietary license does not override rights granted for third-party components.
+
+[05] Warranties and statutory rights
+The software is provided as is, without warranties to the extent permitted by law. Nothing in this license excludes mandatory statutory rights or liabilities. Do not rely on automation as a guarantee of uninterrupted work or quota availability.
+
+ΕΛΛΗΝΙΚΑ — ΠΛΗΡΕΙΣ ΟΡΟΙ ΧΡΗΣΗΣ
+Πνευματικά δικαιώματα © 2026 Aris. Με επιφύλαξη παντός δικαιώματος.
+Έκδοση όρων: 30 Οκτωβρίου 2026. Πλήρες ελληνικό κείμενο.
+
+[01] Άδεια χρήσης
+Επιτρέπεται η εγκατάσταση και χρήση νόμιμα αποκτημένου, μη τροποποιημένου αντιγράφου του Reset Radar στα Windows για τον σκοπό για τον οποίο προορίζεται. Η άδεια αυτή δεν μεταβιβάζει κυριότητα.
+
+[02] Πρωτότυπο περιεχόμενο και αναφορά δημιουργού
+Εκτός από τις περιπτώσεις που επιτρέπει η ισχύουσα νομοθεσία, δεν επιτρέπεται η αναδιανομή, πώληση, παραχώρηση περαιτέρω άδειας, αντιγραφή σε άλλο προϊόν ή επαναχρησιμοποίηση του πρωτότυπου πηγαίου κώδικα, των γραφικών, του λογοτύπου, των στοιχείων διεπαφής ή άλλου πρωτότυπου περιεχομένου του Reset Radar χωρίς προηγούμενη γραπτή άδεια του Aris. Η παρούσα άδεια δεν επιτρέπει τη χρήση των ονομάτων ή του λογοτύπου Aris ή Reset Radar με τρόπο που να υποδηλώνει έγκριση ή υποστήριξη. Μην αφαιρείτε τις αναφορές δημιουργού ή τις σχετικές επισημάνσεις.
+
+[03] Το περιεχόμενό σας και η ανεξαρτησία της εφαρμογής
+Τα αρχεία, τα δεδομένα λογαριασμού και οι συνομιλίες σας παραμένουν δικά σας. Η παρούσα άδεια δεν διεκδικεί κυριότητα στο Codex, στα προϊόντα OpenAI, σε υλικό τρίτων ή σε περιεχόμενο χρηστών. Το Reset Radar είναι ανεξάρτητη συνοδευτική εφαρμογή και δεν συνδέεται με την OpenAI ούτε έχει την έγκριση ή την υποστήριξή της.
+
+[04] Άδειες τρίτων
+Τα στοιχεία τρίτων εξακολουθούν να διέπονται από τις δικές τους άδειες. Τα συνοδευτικά αρχεία Electron LICENSE και LICENSES.chromium.html πρέπει να διατηρούνται. Η παρούσα άδεια ιδιόκτητου λογισμικού δεν υπερισχύει των δικαιωμάτων που παρέχονται για στοιχεία τρίτων.
+
+[05] Εγγυήσεις και νόμιμα δικαιώματα
+Το λογισμικό παρέχεται ως έχει, χωρίς εγγυήσεις στον βαθμό που επιτρέπεται από τη νομοθεσία. Κανένας όρος της παρούσας άδειας δεν αποκλείει δικαιώματα ή ευθύνες που προβλέπονται από διατάξεις αναγκαστικού δικαίου. Μη βασίζεστε στον αυτοματισμό ως εγγύηση αδιάλειπτης εργασίας ή διαθεσιμότητας ορίων χρήσης.
+
